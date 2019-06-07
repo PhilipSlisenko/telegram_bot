@@ -1,0 +1,15 @@
+{
+    "update_id": 662955116,
+    "inline_query": {
+        "id": "1849664588151013916",
+        "from": {
+            "id": 430658596,
+            "is_bot": false,
+            "first_name": "Philip",
+            "username": "PhilipSlisenko",
+            "language_code": "en"
+        },
+        "query": "note",
+        "offset": ""
+    }
+}

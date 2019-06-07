@@ -1,0 +1,21 @@
+{
+    "update_id": 662955117,
+    "message": {
+        "message_id": 32,
+        "from": {
+            "id": 430658596,
+            "is_bot": false,
+            "first_name": "Philip",
+            "username": "PhilipSlisenko",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 430658596,
+            "first_name": "Philip",
+            "username": "PhilipSlisenko",
+            "type": "private"
+        },
+        "date": 1559903186,
+        "text": "This is message text"
+    }
+}
